@@ -7,7 +7,7 @@ I'm Aleksander, a dedicated software developer with a Master's in Software Engin
 ---
 
 ## 🚀 **About Me**
-- 💼 Currently working at **Accenture** as a **Java Software Developer**, contributing to retail-focused software solutions.
+- 💼 Currently working as a **Java Software Developer**, contributing to retail-focused software solutions.
 - 🌍 A global learner with Erasmus+ experience at **Fontys Hogeschool Eindhoven** in the Netherlands.
 - 📜 Certified in **Java SE 8**, **Scrum**, and **Chainlink Fundamentals**.  
 - 💡 Passionate about **AI**, **machine learning**, and the potential of **blockchain technologies**.
