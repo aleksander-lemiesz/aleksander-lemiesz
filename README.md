@@ -15,22 +15,30 @@ I'm Aleksander, a dedicated software developer with a Master's in Software Engin
 ---
 
 ## 🔧 **Tech Stack**
+
 ### Programming Languages
-- **Java**: Spring, Hibernate  
-- **Python**: PyTorch, Pandas  
-- **SQL**, **Solidity**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ### Tools & Frameworks
-- Git  
-- Jira  
-- XML  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-### Platforms
-- Linux  
-
-### Soft Skills
-- Teamwork  
-- Critical Thinking  
+### Concepts
+- Algorithms  
+- Data Structures  
+- Operating Systems  
+- Clean Code Principles  
 
 ---
 
@@ -49,9 +57,9 @@ I'm Aleksander, a dedicated software developer with a Master's in Software Engin
 ---
 
 ## 🌍 **Languages**
-- 🇬🇧 English (Fluent)  
-- 🇩🇪 German (Intermediate)  
-- 🇵🇱 Polish (Native)
+![English](https://img.shields.io/badge/English-Fluent-blue)
+![German](https://img.shields.io/badge/German-Intermediate-yellow)
+![Polish](https://img.shields.io/badge/Polish-Native-red)
 
 ---
 
